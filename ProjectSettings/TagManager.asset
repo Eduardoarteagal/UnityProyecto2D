@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Bullet
+  - Good
+  - DeathZone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Suelo
+  - Water
+  - UI
+  - Enemigo
+  - Jugador
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 2583797909
+    locked: 0
+  - name: Suelo
+    uniqueID: 2473498207
+    locked: 0
+  - name: Enemigo
+    uniqueID: 252678839
+    locked: 0
+  - name: Jugador
+    uniqueID: 736550777
+    locked: 0
+  - name: Items
+    uniqueID: 2387985483
+    locked: 0
